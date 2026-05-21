@@ -11,7 +11,7 @@ Desenvolvendo interfaces modernas, sistemas web, automações e soluções digit
 <br />
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunopaim.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-william-paim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-william-paim-342b171b0)
 [![Site](https://img.shields.io/badge/Site-1DB954?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brunopaim.lovable.app)
 
 </div>

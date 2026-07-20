@@ -4,7 +4,7 @@
 
 # Bruno Paim
 
-### Full Stack Developer | Frontend Architecture | AI-powered Development
+### Full Stack Developer | Software Engineer | AI-powered Development
 
 Desenvolvendo interfaces modernas, sistemas web, automações e soluções digitais com foco em tecnologia prática, produtividade e IA.
 
@@ -12,6 +12,7 @@ Desenvolvendo interfaces modernas, sistemas web, automações e soluções digit
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunopaim.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-william-paim-342b171b0)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BrunoPaimDev)
 [![Site](https://img.shields.io/badge/Site-1DB954?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brunopaim.lovable.app)
 
 </div>
@@ -20,7 +21,7 @@ Desenvolvendo interfaces modernas, sistemas web, automações e soluções digit
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com foco em **frontend moderno, arquitetura de interfaces, sistemas web e automações**.
+Sou desenvolvedor Full Stack e Software Engineer com foco em **frontend moderno, backend com Python, arquitetura de software, sistemas web e automações**.
 
 Tenho experiência criando aplicações para setores como **energia, logística, mercado imobiliário e operações internas**, trabalhando com interfaces escaláveis, dashboards, integrações com APIs, automações de dados e sistemas personalizados.
 
@@ -44,7 +45,7 @@ Atualmente também estou explorando e compartilhando conteúdos sobre **IA aplic
   <tr>
     <td width="50%">
       <h3>Desenvolvimento Web</h3>
-      <p>Criação de aplicações modernas com Vue.js, React, Node.js, TypeScript e bancos relacionais.</p>
+      <p>Criação de aplicações modernas com Vue.js, React, Node.js, TypeScript, Python, FastAPI e bancos relacionais.</p>
     </td>
     <td width="50%">
       <h3>IA e Vibe Coding</h3>
@@ -72,6 +73,8 @@ Atualmente também estou explorando e compartilhando conteúdos sobre **IA aplic
 ![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=42b883)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
